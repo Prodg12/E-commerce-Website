@@ -1,0 +1,17 @@
+.slick-slide > div {
+  margin: 0 10px;
+}
+
+.slick-dots li button::before {
+  line-height: 100px !important;
+}
+
+.slick-prev::before, .slick-next::before  {
+  color: #2C742F !important;
+  font-size: 22px !important;
+}
+
+.navlink.active {
+  color: #00B207;
+  border-bottom: 2px solid #00B207;
+}
